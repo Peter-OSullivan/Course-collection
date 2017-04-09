@@ -1,0 +1,9 @@
+This is a version of the traditional Hangman game containing 2000 dictionary words, with no categories or help.
+
+Difficulty changes with lenght of words used.
+
+Also some words are obscure since no effort was taken to filter types of words in use beyond simply what is in the English dictionary.
+
+Testing was limited so cannot guarantee that sounds work on all platform iterations although it works fine on my phone,(my first proper mobile App).
+Prototype was built in AppInventor2.
+Final App built in Xamarin / visual studio 2015.
